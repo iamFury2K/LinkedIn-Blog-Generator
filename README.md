@@ -1,2 +1,4 @@
 # LinkedIn-Blog-Generator
-This repo contains my project that I made for a Company called Neolen IT Services. This project is all about using gpt-3.5-turbo with some prompt engineering and tuning the tone in order to create best possible blog for LinkedIn for a given Topic
+This repo contains my project that I made for a Company called Neolen IT Services. This project is all about using gpt-3.5-turbo with some prompt engineering and tuning the tone in order to create best possible blog for LinkedIn for a given Topic. The main task for this was to create blog posts for LinkedIn that would generate leads for the company. Basically the process goes from taking a csv file which has previous topics and descriptions for LinkedIn a particular
+had posts from that I used gpt-3.5-turbo with some prompt engineering to generate summary about what that company is about and from that summary create completely new ideas for new post, then I/user would chose a topic on which the
+model would further create a LinkedIn blog. Finally an optimization stage comes in which tone of the blog is set according to certain style and Voila! A professional LinkedIn blog post is created!
